@@ -1,0 +1,6 @@
+userName = input ("What is your name?")
+favFood = input ("What is favourite food?")
+favBand = input ("Who is your favourite musician?")
+print("dear " + userName)
+print("you like " + favFood)
+print("you listen to " +favBand)
